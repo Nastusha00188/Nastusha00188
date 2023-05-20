@@ -1,6 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">Привет! Меня зовут Анастасия и я начинающих тестировщик👩‍💻</div>  
