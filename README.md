@@ -72,6 +72,22 @@
 
 ## Connect with me  
   
+  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Nastusha00188&&style=flat-square)  
+  
+
+
+
+### Telegram  
+-  https://t.me/Nastusha_00188  
+  
+
+
+
+### Email  
+- nastusha00188@gmail.com  
+  
 
 <br/>  
 
